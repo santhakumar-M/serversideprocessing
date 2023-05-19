@@ -11,7 +11,7 @@ Clone the repositary from GitHub
 
 
 ### Step 2:
-Create Django Admin Project.
+Create a Django Admin Project.
 
 
 
